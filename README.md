@@ -12,7 +12,11 @@
 <p align="center">
  <img title="DevOps" alt="Devops" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/devops.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
   <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/aws.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="Kubernetes" alt="Kubernetes" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/kubernets.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Kubernetes" alt="Kubernetes" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/kubernetes.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="OpenShift" alt="OpenShift" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/openshift.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Grafana" alt="Grafana" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/grafana.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Prometheus" alt="Prometheus" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/prometheus.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Prometheus" alt="Prometheus" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/prometheus.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 ## 🌱 I’m currently learning
