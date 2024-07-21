@@ -16,12 +16,18 @@
   <img title="OpenShift" alt="OpenShift" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/openshift.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
   <img title="Grafana" alt="Grafana" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/grafana.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
   <img title="Prometheus" alt="Prometheus" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/prometheus.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="Prometheus" alt="Prometheus" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/prometheus.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Postgresql" alt="Postgresql" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/postgresql.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+    <img title="ElasticSearch" alt="ElasticSearch" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/elasticsearch.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/nodejs.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Python" alt="Python" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/python.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Hyperledger" alt="Hyperledger" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/hyperledger.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 ## 🌱 I’m currently learning
 
 <p align="center">
+<img title="OpenAI" alt="OpenAI" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/openai.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Cilium" alt="Cilium" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/cilium.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 <hr>
@@ -34,5 +40,7 @@
 <a target="_blank" href="mailto:truongquangtinh1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@tinhtq97"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@tinhtq97"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></img></a>
+<a target="_blank" href="https://www.credly.com/users/tinhtq"><img src="https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></img></a>
+
 <br>
 </p>
