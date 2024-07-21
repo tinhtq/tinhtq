@@ -7,10 +7,12 @@
 ⚡ Fun fact: I'm a lazy person, so I avoid repetitive tasks in my daily routine. 🧳 Let's chat about traveling, 🏊‍♂️ swimming, and 🏸 badminton!
 🇻🇳🇻🇳🇻🇳 If you're itching to explore Vietnam, I've got your back! Let me craft a stellar plan for your travels and reveal the breathtaking beauty of Vietnam - picture-perfect beaches, lush forests, you name it! And guess what? It's on the house! No need to dig into your pockets because I'm determined to reveal Vietnam's spectacular charm to the world! 🇻🇳🇻🇳🇻🇳
 
-## My skills include
+## 🔭 I’m currently working on
 
 <p align="center">
  <img title="DevOps" alt="Devops" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/devops.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/aws.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Kubernetes" alt="Kubernetes" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/kubernets.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 ## 🌱 I’m currently learning
