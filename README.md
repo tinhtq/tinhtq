@@ -2,11 +2,14 @@
 
 ## DevOps and Backend Engineer
 
-📊 I like automating, building scalable pipelines, and improving and optimizing systems. I am a strong advocate for 📜 open source, ☁️ cloud computing, 🚀 DevOps, Node.js, Python, 🆕 innovation, 🤖 automation, and 🧠 generative AI.
+📊 I'm a lazy person, so I avoid repetitive tasks in my daily routine. I like automating, building scalable pipelines, and improving and optimizing systems. I am a strong advocate for 📜 open source, ☁️ cloud computing, 🚀 DevOps, Node.js, Python, 🆕 innovation, 🤖 automation, and 🧠 generative AI.
 
-⚡ Fun fact: I'm a lazy person, so I avoid repetitive tasks in my daily routine. 🧳 Let's chat about traveling, 🏊‍♂️ swimming, and 🏸 badminton!
+<p>
+🧳 Outside of My Job: Let's dive into the adventures of traveling, make a splash with some swimming, and smash our way through badminton fun! 🌍🏊‍♂️🏸
+</p>
+<p>
 🇻🇳🇻🇳🇻🇳 If you're itching to explore Vietnam, I've got your back! Let me craft a stellar plan for your travels and reveal the breathtaking beauty of Vietnam - picture-perfect beaches, lush forests, you name it! And guess what? It's on the house! No need to dig into your pockets because I'm determined to reveal Vietnam's spectacular charm to the world! 🇻🇳🇻🇳🇻🇳
-
+</p>
 ## 🔭 I’m currently working on
 
 <p align="center">
