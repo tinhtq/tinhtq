@@ -24,6 +24,7 @@
     <img title="ElasticSearch" alt="ElasticSearch" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/elasticsearch.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 <img title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/nodejs.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/python.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Terraform" alt="Terraform" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/terraform.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Hyperledger" alt="Hyperledger" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/hyperledger.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
