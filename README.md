@@ -36,6 +36,12 @@
 <img title="OpenAI" alt="OpenAI" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/openai.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
+## 🎖 I got the achievements
+
+<p align="center">
+<img title="OpenAI" alt="OpenAI" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-saa.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+</p>
+
 <hr>
 <p align="center">
    <i>Opportunities come out when we keep looking.</i>
