@@ -39,7 +39,8 @@
 ## 🎖 I got the achievements
 
 <p align="center">
-<img title="OpenAI" alt="OpenAI" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-saa.png" width="300" height="80" style="vertical-align:down; margin:4px"/>
+<img title="SAA" alt="SAA" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-saa.png" width="400" height="120" style="vertical-align:down; margin:4px"/>
+<img title="SysOps" alt="SysOps" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-soa.png" width="400" height="120" style="vertical-align:down; margin:4px"/>
 </p>
 
 <hr>
