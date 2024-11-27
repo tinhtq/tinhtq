@@ -34,13 +34,15 @@
 
 <p align="center">
 <img title="OpenAI" alt="OpenAI" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/openai.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Airflow" alt="Airflow" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/skills/airflow.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 ## 🎖 I got the achievements
 
 <p align="center">
-<img title="SAA" alt="SAA" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-saa.png" width="400" height="120" style="vertical-align:down; margin:4px"/>
-<img title="SysOps" alt="SysOps" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-soa.png" width="400" height="120" style="vertical-align:down; margin:4px"/>
+<img title="SAA" alt="SAA" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-saa.png" width="300" height="100" style="vertical-align:down; margin:4px"/>
+<img title="SysOps" alt="SysOps" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-soa.png" width="300" height="100" style="vertical-align:down; margin:4px"/>
+<img title="Oracle GenAI" alt="Oracle GenAI" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/oracle-genai.png" width="300" height="100" style="vertical-align:down; margin:4px"/>
 </p>
 
 <hr>
