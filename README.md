@@ -40,9 +40,9 @@
 ## 🎖 I got the achievements
 
 <p align="center">
-<img title="SAA" alt="SAA" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-saa.png" width="250" height="150" style="vertical-align:down; margin:4px"/>
-<img title="SysOps" alt="SysOps" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-soa.png" width="250" height="150" style="vertical-align:down; margin:4px"/>
-<img title="Oracle GenAI" alt="Oracle GenAI" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/oracle-genai.png" width="250" height="150" style="vertical-align:down; margin:4px"/>
+<img title="SAA" alt="SAA" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-saa.png" width="150" height="150" style="vertical-align:down; margin:4px"/>
+<img title="SysOps" alt="SysOps" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/aws-soa.png" width="150" height="150" style="vertical-align:down; margin:4px"/>
+<img title="Oracle GenAI" alt="Oracle GenAI" src="https://raw.githubusercontent.com/tinhtq/tinhtq/main/assets/achivements/oracle-genai.png" width="150" height="150" style="vertical-align:down; margin:4px"/>
 </p>
 
 <hr>
